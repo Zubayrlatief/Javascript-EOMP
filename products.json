@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "BUTTON UP SWEATER",
+        "description": "WHITE COTTON BUTTON UP",
+        "price": 69.00,
+        "image": "http://127.0.0.1:5501/Men's%20Sweater%20Classic_%20Ribbon%20Knitted%20Soft%20Fabric.jpg"
+    },
+    {
+        "id": 2,
+        "title": "BUTTON UP SWEATER",
+        "description": "BEIGE COTTON BUTTON UP",
+        "price": 69.00,
+        "image": "http://127.0.0.1:5501/DAMIANO%E2%84%A2%20MEN'S%20OLD%20MONEY%20BLOUSE%20Regular%20price.jpg"
+    },
+    {
+        "id": 3,
+        "title": "OPEN NECK SWEATER",
+        "description": "BLACK OPEN NECK SWEATER",
+        "price": 59.99,
+        "image": "http://127.0.0.1:5501/men's%20fashion_old%20money%20style_mans%20style_%20mans%20outfits.jpg"
+    },
+    {
+        "id": 4,
+        "title": "BUTTON UP SWEATER",
+        "description": "OLIVE OPEN NECK SWEATER",
+        "price": 79.00,
+        "image": "http://127.0.0.1:5501/Isabel%20Marant%20Ribbed-Knit%20Half-Zip%20Jumper.jpg"
+    }
+]
